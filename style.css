@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.blowButton{
+  width:70px;
+  height: 70px;
+  border-radius: 35px;
+  background-color: #809cea;
+  padding: 10px;
+  background-size: cover;
+  display: inline-block;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; 
+  transition-duration: 0.4s;
+  outline: none;
+}
